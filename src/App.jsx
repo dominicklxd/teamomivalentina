@@ -43,7 +43,7 @@ export default function Page() {
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="text-4xl md:text-6xl font-bold my-4">
-            Te amo mucho mi linda princesita, Feliz cumpleaños y feliz San Valentín <3
+            Te amo mucho mi linda princesita, Feliz cumpleaños y feliz San Valentín
           </div>
         </>
       ) : (
